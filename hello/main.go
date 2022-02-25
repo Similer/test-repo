@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/similer/practice-golang/greeting"
+	"github.com/similer/test-repo/greeting"
 )
 
 func main() {

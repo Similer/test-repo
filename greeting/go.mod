@@ -1,3 +1,3 @@
-module github.com/similer/practice-golang/greeting
+module github.com/similer/test-repo/greeting
 
 go 1.17
